@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1fc0bbd6a2b4075409fecb1d4785fe0d
+# Starting compiling UnityEngine.UI.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-451bfd769a8aeef419bebd13a416c8ff
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e076d47b299dceb438882a16b6a51f46
+# Starting compiling Unity.Timeline.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2ed4217edfa92f24e8e9207fb1fb68c5
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-635eca9b8adcea046a258fd09e069c8e
+# Starting compiling Unity.TextMeshPro.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2dff322eb462e8f4dae70636e59895d6
+# Starting compiling Unity.InputSystem.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a5eb9159b0af7604aa1b2535dac9e3ea
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cf82f336502c3e54c9f03fe257e2d45e
+# Starting compiling Unity.Mathematics.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2b2bfe9dda52e704db7479f9c9a7d484
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f3ac11ed9d5cb024e8a691007ac45b0a
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-11baaaa865d126c4eb47bc7c0ccb73f1
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ee608bd856f088047b358f1686598aec
+# Starting compiling Assembly-CSharp.dll
+D:\Programes\Unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-582f1fc25780ab84b9d79f458b08e9a2
